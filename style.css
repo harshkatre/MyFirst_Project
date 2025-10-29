@@ -1,0 +1,68 @@
+@font-face {
+    font-family: game;
+    src: url(./Storm\ Gust.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    width: 100%;  
+}
+h1{
+  font-family: game;
+  font-size: 100px;
+  text-align :center ;
+  color:  white
+}
+
+
+h2{
+  font-family : game ;
+  font-size: 69px;
+  color: rgb(255, 0, 0);
+}
+
+#bt1{
+    height: 80px;
+    width: 400px;
+    border-radius: 100px;
+     margin-left: 34%;
+     margin-bottom: 30px;
+     border: 5px solid white;
+     background-color: transparent;
+
+}
+
+#bt2{
+      height: 80px;
+    width: 400px;
+    border-radius: 100px;
+    border: 5px solid white;
+     margin-left: 34%;
+     margin-bottom: 30px;
+     background-color: transparent;
+}
+
+#bt3{
+      height: 80px;
+    width: 400px;
+    border-radius: 100px;
+     border: 5px solid white;
+     margin-left: 34%;
+     background-color: transparent;
+}
+
+
+
+#img{
+    height: 100%;
+    padding-top: 100px;
+    
+   width: 100%;
+   background-image: url(https://imgs.search.brave.com/JntlqbRtRTeN2HVD4gjNfQYmG3_wdoQ8rdJ2ASbuqEo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jYXItc3Vuc2V0/Xzg2Mjk5NC00OTA3/OTAuanBnP3NlbXQ9/YWlzX2h5YnJpZCZ3/PTc0MCZxPTgw);
+   background-size: cover;
+ background-position: center;
+}
